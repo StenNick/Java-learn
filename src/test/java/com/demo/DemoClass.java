@@ -10,7 +10,6 @@ public class DemoClass {
     String date = "28.10.2023";
     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
     LocalDate parseFormat = LocalDate.parse(date, formatter);
-
     Assertions.assertEquals(DayOfWeek.SATURDAY, parseFormat.getDayOfWeek());
   }
 }
