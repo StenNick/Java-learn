@@ -10,9 +10,20 @@ public class DemoClass {
     String date = "28.10.2023";
     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
     LocalDate parseFormat = LocalDate.parse(date, formatter);
+    System.out.println(parseFormat);
     Assertions.assertEquals(DayOfWeek.SATURDAY, parseFormat.getDayOfWeek());
     // изменения в мастере! Добавили еще что то новое в мастер
     // а тут изменения в новой ветке, ветка - some branch
+
+
+  }
+
+  @Test
+  void myTest() {
+    String hello = "Hello!";
+    String world = "World";
+    String fullWord = hello + " " + world;
+    System.out.println(fullWord);
   }
 }
 
