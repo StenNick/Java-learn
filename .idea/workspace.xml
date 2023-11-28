@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef66f2d-a14d-4fa2-9c81-a0b1203274db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="cef66f2d-a14d-4fa2-9c81-a0b1203274db" name="Changes" comment="коммент в 3й ветке">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +38,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -133,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="коммент в 3й ветке" />
+    <option name="LAST_COMMIT_MESSAGE" value="коммент в 3й ветке" />
   </component>
 </project>

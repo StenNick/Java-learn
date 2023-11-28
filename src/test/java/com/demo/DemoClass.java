@@ -11,7 +11,7 @@ public class DemoClass {
     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
     LocalDate parseFormat = LocalDate.parse(date, formatter);
     Assertions.assertEquals(DayOfWeek.SATURDAY, parseFormat.getDayOfWeek());
-    //а тут уже комментарий для 3й ветки
+    // изменения в мастере!
   }
 }
 
