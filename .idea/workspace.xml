@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef66f2d-a14d-4fa2-9c81-a0b1203274db" name="Changes" comment="коммент в 3й ветке">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    <list default="true" id="cef66f2d-a14d-4fa2-9c81-a0b1203274db" name="Changes" comment="внес изменения в мастер">
       <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +35,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sten_nick/feature/some_branch" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,6 +109,8 @@
       <list>
         <item itemvalue="Gradle.Tests in 'Java-learn.test'" />
         <item itemvalue="Gradle.DemoClass.testMethod" />
+        <item itemvalue="Gradle.Tests in 'Java-learn.test'" />
+        <item itemvalue="Gradle.DemoClass.testMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +123,14 @@
       <option name="presentableId" value="Default" />
       <updated>1697108985722</updated>
     </task>
+    <task id="LOCAL-00001" summary="внес изменения в мастер">
+      <created>1701184375934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701184375934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +138,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -133,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="коммент в 3й ветке" />
-    <option name="LAST_COMMIT_MESSAGE" value="коммент в 3й ветке" />
+    <MESSAGE value="внес изменения в мастер" />
+    <option name="LAST_COMMIT_MESSAGE" value="внес изменения в мастер" />
   </component>
 </project>
