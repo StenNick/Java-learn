@@ -12,6 +12,7 @@ public class DemoClass {
     LocalDate parseFormat = LocalDate.parse(date, formatter);
     Assertions.assertEquals(DayOfWeek.SATURDAY, parseFormat.getDayOfWeek());
     // изменения в мастере! Добавили еще что то новое в мастер
+    // а тут изменения в новой ветке, ветка - some branch
   }
 }
 
