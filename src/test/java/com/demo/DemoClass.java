@@ -17,6 +17,7 @@ public class DemoClass {
     Integer number = 111111;
     System.out.println(number);
     // бла бла бла
+    // comments bla bla bla
   }
 
   @Test
