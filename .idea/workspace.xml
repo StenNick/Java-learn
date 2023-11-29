@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cef66f2d-a14d-4fa2-9c81-a0b1203274db" name="Changes" comment="ветка some branch">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DemoClass" />
-        <item itemvalue="Gradle.DemoClass.myTest" />
         <item itemvalue="Gradle.Tests in 'Java-learn.test'" />
         <item itemvalue="Gradle.DemoClass.testMethod" />
-        <item itemvalue="Gradle.Tests in 'Java-learn.test'" />
+        <item itemvalue="Gradle.DemoClass.myTest" />
+        <item itemvalue="Gradle.DemoClass" />
+        <item itemvalue="Gradle.DemoClass" />
       </list>
     </recent_temporary>
   </component>
