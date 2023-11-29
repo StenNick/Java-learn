@@ -18,6 +18,7 @@ public class DemoClass {
     System.out.println(number);
     // бла бла бла
     // comments bla bla bla
+    // some add code
   }
 
   @Test
