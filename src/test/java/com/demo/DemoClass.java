@@ -14,8 +14,8 @@ public class DemoClass {
     Assertions.assertEquals(DayOfWeek.SATURDAY, parseFormat.getDayOfWeek());
     // изменения в мастере! Добавили еще что то новое в мастер
     // а тут изменения в новой ветке, ветка - some branch
-
-
+    Integer number = 4234234;
+    System.out.println(number);
   }
 
   @Test
