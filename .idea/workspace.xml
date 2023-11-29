@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cef66f2d-a14d-4fa2-9c81-a0b1203274db" name="Changes" comment="добавил исключения в гит игнор">
+    <list default="true" id="cef66f2d-a14d-4fa2-9c81-a0b1203274db" name="Changes" comment="новый код">
       <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/DemoClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +37,24 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="sten_nick/feature/some_branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6f23b327-dc4e-427e-80e0-c5416598b0fe" />
+        <option name="url" value="https://github.com/StenNick/Java-learn.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -198,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701247969773</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="новый код">
+      <created>1701248123811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701248123811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +243,7 @@
     <MESSAGE value="внес изменения в мастер" />
     <MESSAGE value="ветка some branch" />
     <MESSAGE value="добавил исключения в гит игнор" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил исключения в гит игнор" />
+    <MESSAGE value="новый код" />
+    <option name="LAST_COMMIT_MESSAGE" value="новый код" />
   </component>
 </project>
