@@ -16,6 +16,7 @@ public class DemoClass {
     // а тут изменения в новой ветке, ветка - some branch
     Integer number = 111111;
     System.out.println(number);
+    // бла бла бла
   }
 
   @Test
